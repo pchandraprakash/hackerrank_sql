@@ -1,2 +1,2 @@
-# hackerrank_sql
-contains SQL scripts related to hackerrank_sql
+### sql_practice_queries
+# contains SQL practice queries solved from hackerrank_sql, mode abalytics, sqlzoo etc.
